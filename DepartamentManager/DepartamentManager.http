@@ -1,0 +1,6 @@
+@DepartamentManager_HostAddress = http://localhost:5044
+
+GET {{DepartamentManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
